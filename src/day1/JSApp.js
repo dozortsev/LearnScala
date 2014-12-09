@@ -1,7 +1,7 @@
 var range = function (start, end) {
-    if (end <= start) {
-        return [end];
-    }
+    if (end < start)
+        return [];
+
     return Array.apply(start, new Array(end)).map(function (_, el) {
         return ++el;
     });
