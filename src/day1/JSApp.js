@@ -7,7 +7,11 @@ var range = function (start, end) {
     });
 };
 
-console.log(range(1, 10).filter(function (el) {
+range(1, 10)
+    .filter(function (el) {
         return el % 2 === 0;
     })
-);
+    .forEach(function (el) {
+        console.log(el);
+    })
+;
