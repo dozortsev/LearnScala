@@ -1,0 +1,20 @@
+# Scala & Java
+
+*.class
+*.log
+.cache
+.history
+.lib/
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+
+
+# IntelliJ
+
+*.iml
+.idea/
+out/
