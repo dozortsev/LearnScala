@@ -1,3 +1,5 @@
+// inspired: http://stackoverflow.com/q/3895478/2650174
+
 var range = function (start, end) {
     if (end < start)
         return [];
