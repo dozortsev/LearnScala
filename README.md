@@ -5,7 +5,11 @@
 * [Coursera lessons](https://class.coursera.org/progfun-005)
 
 
-##Paticular Habr's topics:
+##Paticular topics
+
+* [Moving from Java to Scala - One year later...](http://java.dzone.com/articles/moving-java-scala-one-year)
+
+##Paticular topics from Habrahabr:
 
 * [Scala. Всем выйти из сумрака!](http://habrahabr.ru/post/209850/)
 * [10 «однострочников», которые произведут впечатление на ваших друзей](http://habrahabr.ru/post/120665/)
