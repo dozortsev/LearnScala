@@ -1,6 +1,6 @@
 ##Sources:
 
-* [Scala Tour](http://naildrivin5.com/scalatour/)
+* [Another Tour of Scala](http://naildrivin5.com/scalatour/)
 * [Scala Cookbook](https://www.safaribooksonline.com/library/view/scala-cookbook/9781449340292/)
 * [Twitter Scala school](http://twitter.github.io/scala_school/)
 * [Twitter Effective Scala](http://twitter.github.io/effectivescala/)
