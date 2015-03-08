@@ -8,7 +8,6 @@
 ##Books:
 
 * [Programming in Scala. Martin Odersky](http://goo.gl/WKUTk9)
-* [Scala Cookbook. Alvin Alexander](http://goo.gl/tAY0zD)
 
 ##Paticular topics
 
