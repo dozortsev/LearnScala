@@ -1,6 +1,6 @@
 package dozortsev.day2
 
-class Date(y: Int, m: Int, d: Int) extends Ord {
+abstract class Date(y: Int, m: Int, d: Int) extends Ord {
   def year = y
   def month = m
   def day = d
