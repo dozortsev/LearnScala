@@ -3,7 +3,7 @@
 * [Another Tour of Scala](http://naildrivin5.com/scalatour/)
 * [Twitter Scala school](http://twitter.github.io/scala_school/)
 * [Twitter Effective Scala](http://twitter.github.io/effectivescala/)
-* [Coursera lessons](https://class.coursera.org/progfun-005)
+* [Coursera lessons](https://class.coursera.org/progfun-004)
 
 ##Books:
 
