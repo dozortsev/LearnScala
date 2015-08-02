@@ -20,8 +20,6 @@ class Person(var _firstName: String, var _lastName: String) {
   override def toString = "%s, %s is %d year%s old".format(fName, lName, _age, if (_age == 1) "" else "s")
 }
 
-case class Human(name: String, id: Long)
-
 class Pizza(var crustSize: Int, var crustType: String) {
 
   def this(crustSize: Int) {
@@ -53,10 +51,6 @@ object TestStation {
 
     diego.fName = "Carlos"
     println(diego.fName)
-
-    val bob = Human("Bob Bober", 12L)
-    println(bob.name)
-    println(bob.id)
 
     val socket = new Socket(domain = "local", timeout = 900)
     assert { socket.linger == 2000 }
