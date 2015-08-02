@@ -3,14 +3,9 @@ package dozortsev.day9;
 import java.io.File;
 import java.nio.ByteBuffer;
 import java.nio.channels.AsynchronousFileChannel;
-import java.nio.charset.Charset;
-import java.nio.charset.StandardCharsets;
-import java.nio.file.Paths;
-import java.nio.file.StandardOpenOption;
 import java.util.concurrent.Future;
 
 import static java.nio.channels.AsynchronousFileChannel.open;
-import static java.nio.charset.StandardCharsets.UTF_8;
 import static java.nio.file.Paths.get;
 import static java.nio.file.StandardOpenOption.READ;
 
