@@ -9,8 +9,4 @@ object Pizza {
 
   val CRUST_TYPE_THIN = "thin"
   val CRUST_TYPE_THICK = "thick"
-
-  def apply(crustType: String): Pizza = {
-    new Pizza(crustType)
-  }
 }
