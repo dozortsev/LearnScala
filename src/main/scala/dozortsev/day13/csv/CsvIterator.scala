@@ -99,6 +99,6 @@ private[csv] class CsvIterator(data: Iterator[Char], separator: Char)
   override def hasNext: Boolean = input.hasNext
 
   override def next(): ArrayBuffer[String] = {
-
+    ???
   }
 }
