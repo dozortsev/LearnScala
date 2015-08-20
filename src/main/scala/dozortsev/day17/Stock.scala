@@ -1,4 +1,4 @@
-package dozortsev.day16.day17
+package dozortsev.day17
 
 class Stock {
 
