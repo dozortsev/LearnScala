@@ -1,7 +1,7 @@
 package dozortsev.day19
 
 import java.util.{ArrayList => JList}   // rename class in import process
-import scala.Predef.{println => p}      // provide shorthand alias on a exist method
+import scala.Predef.{println => p}      // provide shortcut alias on a exist method
 
 object Main {
   def main(args: Array[String]) {
