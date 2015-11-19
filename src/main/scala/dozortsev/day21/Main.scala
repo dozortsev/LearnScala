@@ -14,6 +14,10 @@ object Main {
         <report id="12">
           <name>name.xml</name>
           <createdAt>10-29-2015</createdAt>
+           <names type="array">
+            <value>Mario</value>
+            <value>Mario</value>
+           </names>
         </report>
       """
 
@@ -27,7 +31,11 @@ object Main {
     {
       "id" : "12",
       "name" : "name.xml",
-      "createdAt" : "10-29-2015"
+      "createdAt" : "10-29-2015",
+      "names" : {
+        "type" : "array",
+        "value" : "Mario"
+      }
     }
 
     */
