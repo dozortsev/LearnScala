@@ -10,5 +10,8 @@ libraryDependencies ++= Seq(
   "com.fasterxml.jackson.dataformat" % "jackson-dataformat-xml" % "2.6.3",
   "org.jooq" % "jooq" % "3.7.0",
   "com.google.guava" % "guava" % "18.0",
-  "mysql" % "mysql-connector-java" % "5.1.36"
+  "mysql" % "mysql-connector-java" % "5.1.36",
+  "org.springframework.boot" % "spring-boot-starter-web" % "1.3.2.RELEASE",
+  "aspectj" % "aspectjrt" % "1.5.4",
+  "aspectj" % "aspectjweaver" % "1.5.4"
 )
