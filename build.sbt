@@ -15,5 +15,7 @@ libraryDependencies ++= Seq(
   "aspectj" % "aspectjrt" % "1.5.4",
   "aspectj" % "aspectjweaver" % "1.5.4",
   "org.scalactic" %% "scalactic" % "2.2.6",
-  "org.scalatest" %% "scalatest" % "2.2.6" % "test"
+  "org.scalatest" %% "scalatest" % "2.2.6" % "test",
+  "org.mockito" % "mockito-all" % "1.9.5" % "test",
+  "junit" % "junit" % "4.12" % "test"
 )

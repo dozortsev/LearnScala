@@ -20,9 +20,9 @@ class SpringConfiguration
 
 object SimpleApp {
 
-  @Autowired
+  /*@Autowired
   var impl: BusinessImpl
 
   def main(args: Array[String]): Unit = {
-  }
+  }*/
 }
