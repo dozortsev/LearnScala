@@ -3,15 +3,10 @@ package dozortsev.day9;
 import java.io.File;
 import java.nio.ByteBuffer;
 import java.nio.channels.AsynchronousFileChannel;
-import java.nio.file.OpenOption;
-import java.util.HashSet;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 import java.util.concurrent.TimeUnit;
 
 import static java.nio.channels.AsynchronousFileChannel.open;
-import static java.nio.file.Paths.get;
 import static java.nio.file.StandardOpenOption.READ;
 
 public class FileReader {
