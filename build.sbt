@@ -13,6 +13,7 @@ libraryDependencies ++= Seq(
   "mysql" % "mysql-connector-java" % "5.1.36",
   "org.springframework.boot" % "spring-boot-starter-web" % "1.3.3.RELEASE",
   "org.springframework.boot" % "spring-boot-starter-data-rest" % "1.3.3.RELEASE",
+  "org.springframework.boot" % "spring-boot-starter-data-jpa" % "1.3.3.RELEASE",
   "aspectj" % "aspectjrt" % "1.5.4",
   "aspectj" % "aspectjweaver" % "1.5.4",
   "org.scalactic" %% "scalactic" % "2.2.6",
